@@ -3,7 +3,7 @@
 #include <iostream>
 #include "dataAndImage.h"
 #include "StackedAE.h"
-#include "ca.h"
+//#include "ca.h"
 using namespace std;
 
 void printToFile(char *szFileName,char *str)
